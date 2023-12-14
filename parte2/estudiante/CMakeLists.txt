@@ -3,4 +3,9 @@ project(estudiante)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(estudiante main.cpp)
+# Agrega archivos de código fuente
+add_executable(estudiante
+        main.cpp
+        estudiante.cpp
+        estudiante.h)
+
