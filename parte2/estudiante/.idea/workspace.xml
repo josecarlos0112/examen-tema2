@@ -20,7 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="a4ce4aef-cec4-4f2e-856f-96b2fd062084" name="Changes" comment="" />
+=======
+    <list default="true" id="580ad71f-d896-4621-af6c-39efe5e38c6d" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
