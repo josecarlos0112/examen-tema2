@@ -18,30 +18,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e7d2ea0-dfdc-442d-9343-31ba63f23620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/asistencia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asistencia.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asistencia.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-14T11-55-55-0532.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/estudiante.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/CMakeFiles/estudiante.dir/compiler_depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/estudiante.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/estudiante.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/estudiante.h" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/estudiante.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estudiante/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../estudiante/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asistencia.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/asistencia.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asistencia.h" beforeDir="false" afterPath="$PROJECT_DIR$/asistencia.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702555058304</updated>
-      <workItem from="1702555059674" duration="427000" />
+      <workItem from="1702555059674" duration="666000" />
     </task>
     <servers />
   </component>
