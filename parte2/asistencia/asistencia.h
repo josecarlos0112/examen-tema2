@@ -1,14 +1,8 @@
-//
-// Created by usuario on 14/12/2023.
-//
 
 #ifndef ASISTENCIA_ASISTENCIA_H
 #define ASISTENCIA_ASISTENCIA_H
 
-#pragma once
-
-#include <string>
-#include <vector>
+#include "estudiante.h"
 
 struct Asistencia {
     std::string fecha;
@@ -18,7 +12,5 @@ struct Asistencia {
 
 void registrarAsistencia(Estudiante& estudiante, const Asistencia& asistencia);
 void mostrarAsistencia(const Estudiante& estudiante);
-
-
 
 #endif //ASISTENCIA_ASISTENCIA_H

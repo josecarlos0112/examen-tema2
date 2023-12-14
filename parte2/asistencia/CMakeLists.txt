@@ -5,4 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(asistencia main.cpp
         asistencia.cpp
-        asistencia.h)
+        asistencia.h
+        estudiante.h
+        estudiante.cpp
+)

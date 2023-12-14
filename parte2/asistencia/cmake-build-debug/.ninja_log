@@ -1,3 +1,10 @@
 # ninja log v5
-0	635	7242582690139208	CMakeFiles/asistencia.dir/main.cpp.obj	8fc71ddcfaf34361
+8	824	7242593461196572	CMakeFiles/asistencia.dir/main.cpp.obj	8fc71ddcfaf34361
 639	771	7242582691405265	asistencia.exe	f10a20dc0be3869b
+2	268	7242594301313193	build.ninja	b80df38ddd46de67
+15	709	7242594486715566	CMakeFiles/asistencia.dir/estudiante.cpp.obj	f29e727d17ab069f
+14	755	7242598828216057	CMakeFiles/asistencia.dir/estudiante.cpp.obj	f29e727d17ab069f
+21	908	7242599383710023	CMakeFiles/asistencia.dir/estudiante.cpp.obj	f29e727d17ab069f
+14	935	7242599383978296	CMakeFiles/asistencia.dir/main.cpp.obj	8fc71ddcfaf34361
+6	985	7242599384487220	CMakeFiles/asistencia.dir/asistencia.cpp.obj	34d698db69188b0d
+986	1151	7242599386065197	asistencia.exe	e468f572caf78aeb

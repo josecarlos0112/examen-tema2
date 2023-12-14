@@ -61,6 +61,12 @@ build CMakeFiles/asistencia.dir/asistencia.cpp.obj: CXX_COMPILER__asistencia_uns
   OBJECT_DIR = CMakeFiles\asistencia.dir
   OBJECT_FILE_DIR = CMakeFiles\asistencia.dir
 
+build CMakeFiles/asistencia.dir/estudiante.cpp.obj: CXX_COMPILER__asistencia_unscanned_Debug C$:/Users/usuario/Documents/GitHub/examen-tema2/parte2/asistencia/estudiante.cpp || cmake_object_order_depends_target_asistencia
+  DEP_FILE = CMakeFiles\asistencia.dir\estudiante.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\asistencia.dir
+  OBJECT_FILE_DIR = CMakeFiles\asistencia.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target asistencia
@@ -69,7 +75,7 @@ build CMakeFiles/asistencia.dir/asistencia.cpp.obj: CXX_COMPILER__asistencia_uns
 #############################################
 # Link the executable asistencia.exe
 
-build asistencia.exe: CXX_EXECUTABLE_LINKER__asistencia_Debug CMakeFiles/asistencia.dir/main.cpp.obj CMakeFiles/asistencia.dir/asistencia.cpp.obj
+build asistencia.exe: CXX_EXECUTABLE_LINKER__asistencia_Debug CMakeFiles/asistencia.dir/main.cpp.obj CMakeFiles/asistencia.dir/asistencia.cpp.obj CMakeFiles/asistencia.dir/estudiante.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\asistencia.dir
