@@ -55,6 +55,12 @@ build CMakeFiles/estudiante.dir/main.cpp.obj: CXX_COMPILER__estudiante_unscanned
   OBJECT_DIR = CMakeFiles\estudiante.dir
   OBJECT_FILE_DIR = CMakeFiles\estudiante.dir
 
+build CMakeFiles/estudiante.dir/estudiante.c.obj: C_COMPILER__estudiante_unscanned_Debug C$:/Users/usuario/Documents/GitHub/examen-tema2/parte2/estudiante/estudiante.c || cmake_object_order_depends_target_estudiante
+  DEP_FILE = CMakeFiles\estudiante.dir\estudiante.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\estudiante.dir
+  OBJECT_FILE_DIR = CMakeFiles\estudiante.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target estudiante
@@ -63,7 +69,7 @@ build CMakeFiles/estudiante.dir/main.cpp.obj: CXX_COMPILER__estudiante_unscanned
 #############################################
 # Link the executable estudiante.exe
 
-build estudiante.exe: CXX_EXECUTABLE_LINKER__estudiante_Debug CMakeFiles/estudiante.dir/main.cpp.obj
+build estudiante.exe: CXX_EXECUTABLE_LINKER__estudiante_Debug CMakeFiles/estudiante.dir/main.cpp.obj CMakeFiles/estudiante.dir/estudiante.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\estudiante.dir
