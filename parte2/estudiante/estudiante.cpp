@@ -1,18 +1,6 @@
-//
-// Created by usuario on 14/12/2023.
-//
-
+// estudiante.cpp
+#include <iostream>
 #include "estudiante.h"
-#include <vector>
-#include <string>
-
-// Estructura Estudiante en C++
-struct Estudiante {
-    std::string nombre;
-    int edad;
-    float promedio;
-    std::vector<std::string> materias;  // Para la gestión de materias
-};
 
 // Función para mostrar un Estudiante
 void mostrarEstudiante(const Estudiante& estudiante) {
