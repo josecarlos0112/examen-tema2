@@ -1,7 +1,7 @@
 //
 // Created by usuario on 14/12/2023.
 //
-
+#include <iostream>
 #include "estudiante.h"
 #include <vector>
 #include <string>
