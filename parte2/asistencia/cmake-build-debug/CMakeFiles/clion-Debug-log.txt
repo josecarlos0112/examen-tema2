@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\usuario\Documents\GitHub\examen-tema2\parte2\asistencia Select CMakeLists.txt
