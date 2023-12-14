@@ -9,7 +9,7 @@ En la Carpeta 'parte1' se encuentran las soluciones correspondientes a la primer
 
 ## Parte 2 : Problemas de Codificacion
 En la ramas determinadas se encuentran las soluciones correspondientes a la segunda parte, problemas de codificacion.
------------
+-------------------------------------------------------
   ## Comparativa entre Implementaciones en C y C++
   
   ### Estructura Estudiante
@@ -22,7 +22,9 @@ En la ramas determinadas se encuentran las soluciones correspondientes a la segu
   
   ### Gestión de Materias
   
-  En C++, hemos aprovechado la versatilidad de `std::vector` para gestionar dinámicamente las materias, mientras que en C utilizamos un puntero doble y un entero para mantener un arreglo de strings.
+    En C++, hemos aprovechado la versatilidad de `std::vector` para gestionar dinámicamente las materias, mientras que en C utilizamos un puntero doble y un entero para mantener un arreglo de strings.
+  ### Registro de Asistencia
+  
+  En la implementación en C++, hemos introducido la funcionalidad de registro de asistencia. La estructura `Asistencia` y las funciones `registrarAsistencia()` y `mostrarAsistencia()` proporcionan una forma de registrar y visualizar la asistencia de un estudiante a diferentes materias.
 
-...
 
